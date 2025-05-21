@@ -1,0 +1,3 @@
+7-Segment Digit Recognition with MLP (Numerical Gradient)
+
+This project demonstrates how to build a basic Multilayer Perceptron (MLP) from scratch using NumPy. It focuses on learning the relationship between 7-segment display inputs and the corresponding digits (0–9). The neural network is trained using numerical gradient descent as an educational approach to understanding how MLPs work internally.
